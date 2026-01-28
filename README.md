@@ -30,16 +30,21 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 
-<table align="center">
-  <tr>
-    <td align="center" width="48%">
-      <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=matheussantozqa&theme=react-dark"
-        width="820"
-      />
-    </td>
-    <td align="center" width="48%">
-      <img
+## GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=matheussantozqa&theme=react-dark"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheussantozqa&theme=github_dark"
+    width="100%"
+  />
+</p>
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheussantozqa&theme=github_dark"
         width="820"
       />
