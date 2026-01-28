@@ -2,15 +2,20 @@
 
 ## Introduction
 
-> Hey, my name is Matheus. I’m a QA Engineer focused on software quality as a whole.
-> I transitioned into QA after years working with design-driven systems and video automation workflows,
-> bringing strong attention to detail and experience with automation logic.
-> I work with web and mobile testing, covering UI tests, API tests and automated tests,
-> using tools like Cypress, Playwright, Postman and Appium.
-> My focus is on reliable test processes and consistent user experiences.
+<div style="font-size:17px; line-height:1.6">
 
+Hey, my name is **Matheus**. I’m a QA Engineer focused on software quality as a whole.  
+I transitioned into QA after years working with design-driven systems and video automation workflows,  
+bringing strong attention to detail and experience with automation logic.  
 
+I work with web and mobile testing, covering **UI tests, API tests and automated tests**,  
+using tools like **Cypress, Playwright, Postman and Appium**.  
 
+My focus is on **reliable test processes** and **consistent user experiences**.
+
+</div>
+
+---
 
 ## Tecnologies
 
@@ -30,18 +35,21 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 
+---
+
 ## GitHub Stats
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=matheussantozqa&theme=react-dark"
-    width="100%"
+    width="80%"
   />
 </p>
 
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheussantozqa&theme=github_dark"
-    width="100%"
+    width="80%"
   />
 </p>
+
