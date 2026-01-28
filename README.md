@@ -40,7 +40,7 @@ My focus is on **reliable test processes** and **consistent user experiences**.
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-qa-engineer/)
-[![Email](https://img.shields.io/badge/Email-000000.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheussantoz.qa@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheussantoz.qa@gmail.com)
 
 ---
 
