@@ -49,7 +49,7 @@ My focus is on **reliable test processes** and **consistent user experiences**.
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=matheussantozqa&theme=react-dark"
-    width="80%"
+    width="120%"
   />
 </p>
 
