@@ -17,7 +17,7 @@ My focus is on **reliable test processes** and **consistent user experiences**.
 
 ---
 
-## Tecnologies
+## Tecnologies & Tools
 
 ![Cypress](https://img.shields.io/badge/Cypress-17202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-EE376D.svg?style=for-the-badge&logo=appium&logoColor=white)
