@@ -53,10 +53,3 @@ My focus is on **reliable test processes** and **consistent user experiences**.
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheussantozqa&theme=github_dark"
-    width="80%"
-  />
-</p>
-
