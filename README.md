@@ -4,7 +4,7 @@
 
 <div style="font-size:17px; line-height:1.6">
 
-Hey, my name is Matheus. I'm a QA Engineer focused on software quality as a whole.
+QA Engineer focused on ensuring software quality through testing, automation, and strong attention to detail.
 
 Experience with manual testing, test automation and design-driven systems, with strong attention to detail and solid knowledge of automation logic and testing practices.
 
