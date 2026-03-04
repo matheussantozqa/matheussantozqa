@@ -5,8 +5,7 @@
 <div style="font-size:17px; line-height:1.6">
 
 Hey, my name is **Matheus**. I’m a QA Engineer focused on software quality as a whole.  
-I transitioned into QA after years working with design-driven systems and video automation workflows,  
-bringing strong attention to detail and experience with automation logic.  
+Experience focused on manual testing, automation, design-driven systems, with strong attention to detail and solid knowledge of automation logic and testing practices. Specialized in Usability and Mobile Applications, which allows me to approach quality assurance with a strong focus on user experience and product behavior.
 
 I work with web and mobile testing, covering **UI tests, API tests and automated tests**,  
 using tools like **Cypress, Playwright, Postman and Appium**.  
