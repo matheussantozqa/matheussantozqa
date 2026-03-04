@@ -6,7 +6,7 @@
 
 QA Engineer focused on ensuring software quality through testing, automation, and strong attention to detail.
 
-Experience with manual testing, test automation and design-driven systems, with strong attention to detail and solid knowledge of automation logic and testing practices.
+Experience with manual testing, test automation, and design-driven systems, with high attention to detail and solid knowledge of automation logic and testing practices.
 
 Specialized in Usability and Mobile Applications, which allows me to approach quality assurance with a strong focus on user experience and product behavior.
 
